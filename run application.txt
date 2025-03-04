@@ -1,0 +1,9 @@
+in the backend file run these commands:
+celery -A main.celery worker --loglevel=info
+ uvicorn main:app --reload
+
+
+and where reddid is downloaded run this command:
+redis-server.exe
+
+
