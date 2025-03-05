@@ -10,3 +10,6 @@ for the react app just run:
 -  npm install (install dependencies)
 -  npm run start (run the application)
 
+for testing the application login with user:
+username: a
+password: a
